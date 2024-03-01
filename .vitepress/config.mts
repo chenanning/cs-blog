@@ -2,7 +2,7 @@ import {defineConfig} from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    base: '/cs-blog',
+    // base: '/cs-blog',
     head: [["link",{rel:"icon",href:"/cs-blog/images/logo.svg"}]],
     title: "小陈睡不醒的超级文档",
     description: "这是介绍",
